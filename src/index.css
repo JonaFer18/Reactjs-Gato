@@ -1,8 +1,8 @@
+
 body {
   background-color:  black;
   font: 14px "Century Gothic", Futura, sans-serif;
-  margin-left: 200px;
-  margin-top: 50px;
+  justify-content: center;
 }
 
 ol, ul {
@@ -21,6 +21,7 @@ ol, ul {
 }
 
 .square {
+
   background: #fff;
   border: 1px solid #999;
   float: left;
@@ -49,7 +50,7 @@ ol, ul {
 }
 
 .game-info {
-  font-size: 100px;
-  margin-left: 80px;
+  font-size: 50px;
+  margin: auto;
   color: white;
 }
